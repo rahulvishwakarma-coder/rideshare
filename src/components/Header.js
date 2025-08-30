@@ -37,7 +37,7 @@ const App = () => {
       <header className="bg-white shadow-sm sticky top-0 z-50">
         <nav className="container mx-auto px-4 py-4 flex flex-col md:flex-row items-center justify-between">
           <div className="flex items-center justify-between w-full md:w-auto">
-            <a href="#" className="text-2xl font-bold text-[#004d40]">RideSphere</a>
+            <a href="#" className="text-2xl font-bold text-[#004d40]">RideShare</a>
           </div>
           <div className="mt-4 md:mt-0 flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-4">
             <a href="#find-ride-section" className="text-[#004d40] hover:text-[#00897b] font-semibold transition-colors duration-300">Find a Ride</a>
