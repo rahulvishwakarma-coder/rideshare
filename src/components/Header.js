@@ -3,7 +3,7 @@ import React from 'react';
 const App = () => {
   return (
     <div className="bg-gray-100 min-h-screen flex flex-col font-['Inter']">
-      <style js>{`
+      <style >{`
         .fade-in {
           animation: fadeIn 1s ease-out;
         }
